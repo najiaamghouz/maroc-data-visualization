@@ -157,7 +157,6 @@ Le graphique présenté est un diagramme circulaire (ou donut chart) représenta
 </p>
 <p> 
   <br>
-  <br>
 </p>
 
 
@@ -174,6 +173,10 @@ Merci d'avoir pris le temps de parcourir ce projet. À travers les différentes 
 4. **Sources d'Aide** : Les développeurs débutants (1-3 ans) préfèrent des sources d'aide comme les vidéos tutoriels et StackOverflow, indiquant une reliance sur des ressources facilement digestibles et interactives.
 
 5. **Défis dans l'Enseignement** : Les 'Sujets définis académiquement (système)' sont le problème le plus dominant, ce qui souligne un besoin crucial d'aligner les curriculums académiques avec les réalités et exigences pratiques de l'industrie.
+
+<p> 
+  <br>
+</p>
 
 ### Conclusion
 
