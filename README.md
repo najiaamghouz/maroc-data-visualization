@@ -70,7 +70,7 @@
 ### Voici la deuxième visualisation
 
 
-![V3](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/4e6744ff-0ed5-40f6-a0f2-63011fd53619)
+![V3](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/23b7635d-0954-450b-be8b-75372d3ac327)
 
 
 <p>
