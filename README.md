@@ -67,3 +67,7 @@
 </p>
 
 
+### Voici la deuxième visualisation
+
+
+![V2](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/12009e1a-1e51-45d0-a183-f417320d2e8f)
