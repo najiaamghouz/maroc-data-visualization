@@ -50,4 +50,11 @@
 </p>
 
 ## 6. Les visualisations
+
+### Voici la première visualisation
+
 ![V1](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/525e9f45-38cc-4f49-bd42-9a6cd6fd2643)
+ 
+<p>
+  
+</p>
