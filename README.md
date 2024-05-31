@@ -128,7 +128,7 @@ La visualisation  montre un histogramme représentant les plateformes d'apprenti
 
 ### Voici la cinquième visualisation
 
-![V7](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/56b620a2-1759-4f4a-a933-55f610ee3a17)
+![V7](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/13bb329f-1f41-460b-b8e1-f112be47c3d5)
 
 
 <p>
