@@ -150,10 +150,9 @@ La visualisation  montre un histogramme représentant les sources les plus coura
 
 
 <p>
-La visualisation  montre un histogramme représentant les sources les plus courantes d'aide pour les développeurs en fonction de leur expérience en codage. 
+Le graphique présenté est un diagramme circulaire (ou donut chart) représentant la distribution des problèmes liés à l'enseignement. 
   <ul>
-     <li>"Google it" semble être la source d'aide la plus populaire parmi les développeurs <code> ayant 1 à 3 ans d'expérience </code>, avec plus de 500 utilisateurs.</li>
-    <li> "Call a coworker or friend" et "Do other work and come back later" sont des méthodes moins fréquemment utilisées, mais encore présentes parmi cette population de développeurs.</li>
+     <li>Le problème le plus dominant représenté dans cette visualisation est lié aux 'Sujets définis académiquement (système)'. Cela suggère que les répondants trouvent que les sujets définis par le système académique posent les plus grands défis dans l'enseignement.</li>
   </ul>
 </p>
 
