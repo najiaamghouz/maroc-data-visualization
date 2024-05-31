@@ -114,8 +114,7 @@ La visualisation montre un histogramme représentant les intitulés de poste en 
 
 ### Voici la quatrième visualisation
 
-![V6](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/8039af8e-c71c-411e-989a-db3b35f06c8e)
-
+![V6](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/60723095-8fd0-4f0e-8d30-f09d35c43e16)
 
 
 <p>
@@ -126,3 +125,19 @@ La visualisation  montre un histogramme représentant les plateformes d'apprenti
      <li> Les ressources de l'entreprise et autres sources sont les moins populaires, peut-être en raison de leur accessibilité limitée ou de leur qualité perçue. </li>
   </ul>
 </p>
+
+### Voici la cinquième visualisation
+
+![V7](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/56b620a2-1759-4f4a-a933-55f610ee3a17)
+
+
+<p>
+La visualisation  montre un histogramme représentant les plateformes d'apprentissage les plus populaires et les plus utilisées par les développeurs qui apprendre d'une façon continu, avec une fréquence d'apprentissage sélectionnée comme "Every few months". 
+  <ul>
+     <li>La visualisation montre une forte préférence pour les ressources en ligne gratuites et accessibles comme YouTube et la documentation officielle.</li>
+    <li> Les ressources payantes et les livres sont également bien utilisés, indiquant que les apprenants sont disposés à investir dans des ressources de qualité.</li>
+     <li> Les ressources de l'entreprise et autres sources sont les moins populaires, peut-être en raison de leur accessibilité limitée ou de leur qualité perçue. </li>
+  </ul>
+</p>
+
+
