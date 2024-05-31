@@ -157,11 +157,10 @@ Le graphique présenté est un diagramme circulaire (ou donut chart) représenta
 </p>
 
 
-## Conclusion
+## Voici les points clés importants
 
 Merci d'avoir pris le temps de parcourir ce projet. À travers les différentes analyses et visualisations interactives présentées, nous avons pu obtenir des insights précieux sur divers aspects de l'expérience des développeurs, leurs préférences, et les défis qu'ils rencontrent.
 
-### Points Clés :
 1. **Plans d'Immigration** : La majorité des développeurs, notamment ceux occupant des postes de back-end, montrent une forte inclination à immigrer pour de meilleures opportunités. Cette tendance peut refléter des aspirations professionnelles globales et la recherche de conditions de travail optimales.
   
 2. **Expérience en Codage et Titres de Poste** : Les développeurs avec peu d'expérience (1-3 ans) sont majoritairement des développeurs full-stack. Cela pourrait indiquer une entrée commune dans le domaine par le biais de compétences polyvalentes.
@@ -172,7 +171,7 @@ Merci d'avoir pris le temps de parcourir ce projet. À travers les différentes 
 
 5. **Défis dans l'Enseignement** : Les 'Sujets définis académiquement (système)' sont le problème le plus dominant, ce qui souligne un besoin crucial d'aligner les curriculums académiques avec les réalités et exigences pratiques de l'industrie.
 
-### Conclusion Personnalisée
+### Conclusion
 
 Ce projet vise à fournir une vue d'ensemble complète et interactive des divers facteurs influençant les développeurs dans leurs carrières. Les visualisations interactives permettent une exploration dynamique des données, offrant des perspectives qui peuvent guider les éducateurs, les étudiants, et les professionnels du secteur. Les insights obtenus peuvent être utilisés pour améliorer les stratégies éducatives, les politiques d'entreprise, et les parcours de développement professionnel.
 
