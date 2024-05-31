@@ -108,3 +108,6 @@ La visualisation montre un histogramme représentant les intitulés de poste en 
      <li> Les postes non directement liés au développement, comme ceux dans l'éducation, le DevOps, et le design, sont beaucoup moins représentés. </li>
   </ul>
 </p>
+
+> [!IMPORTANT]
+> Cette visualisation est interactive et permet de choisir différentes plages d'années d'expérience pour voir la répartition des intitulés de poste parmi les développeurs.
