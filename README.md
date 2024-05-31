@@ -185,7 +185,7 @@ Merci de votre intérêt et bonne exploration !
 Si vous avez des questions ou des suggestions, n'hésitez pas à ouvrir une issue ou à nous contacter. Ensemble, faisons progresser la connaissance et l'innovation dans le domaine du développement logiciel.
 
 ---
-```
+
 
 
 
