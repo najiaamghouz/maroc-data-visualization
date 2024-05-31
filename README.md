@@ -42,6 +42,9 @@
     <li>Soumettez une pull request pour révision.</li>
   </ul>
 </p>
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
 
 ## 5. Licence
 
@@ -56,5 +59,11 @@
 ![V1](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/525e9f45-38cc-4f49-bd42-9a6cd6fd2643)
  
 <p>
-  
+  la premiere visualisation simple elle contient juste la distribution des niveaux d'éducation dans l'ensemble de données présenté.
+  <ul>
+     <li> La visualisation montre une tendance claire où la majorité des développeurs ont un niveau Bac +5, suggérant peut-être une préférence ou une exigence pour ce niveau dans le contexte étudié.</li>
+    <li> Le faible nombre de développeurs avec un niveau Bac +8 pourrait indiquer une plus grande rareté de ce niveau d'éducation ou des exigences spécifiques et plus élevées pour atteindre ce niveau.</li>
+  </ul>
 </p>
+
+
