@@ -82,13 +82,13 @@
 </p>
 
 ### Voici la troisième visualisation
-<br>
+
 ![V4](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/110bc7d6-507c-4007-99e6-67f08799e793)
 
 
 
 <p>
-La visualisation montre un histogramme représentant les plans d'immigration des cadres supérieurs (Senior executive/VP).
+La visualisation montre un histogramme représentant <code> les plans d'immigration des cadres supérieurs (Senior executive/VP) </code>.
   <ul>
      <li>La visualisation montre une tendance où la majorité des cadres supérieurs préfèrent rester au Maroc, n'envisageant pas l'immigration.</li>
     <li> Le nombre plus faible de cadres supérieurs ayant des plans d'immigration pourrait indiquer une satisfaction avec leur situation actuelle ou des obstacles à l'immigration. </li>
