@@ -156,6 +156,8 @@ Le graphique présenté est un diagramme circulaire (ou donut chart) représenta
   </ul>
 </p>
 <p></p>
+
+
 ## Voici les points clés importants
 
 Merci d'avoir pris le temps de parcourir ce projet. À travers les différentes analyses et visualisations interactives présentées, nous avons pu obtenir des insights précieux sur divers aspects de l'expérience des développeurs, leurs préférences, et les défis qu'ils rencontrent.
