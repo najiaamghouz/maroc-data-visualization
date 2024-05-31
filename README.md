@@ -80,3 +80,4 @@
   </ul>
 </p>
 
+<img width="617" alt="1" src="https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/e9512101-e74f-4e73-a579-42a0567d71b0">
