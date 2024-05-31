@@ -100,4 +100,11 @@ La visualisation montre un histogramme représentant <code> les plans d'immigrat
 
 ![V5](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/54bd045e-3ef1-47a8-9618-7afb504f4229)
 
-
+<p>
+La visualisation montre un histogramme représentant les intitulés de poste en fonction de l'expérience en codage (années d'expérience) pour une sélection de 1-3 ans.
+  <ul>
+     <li>La visualisation montre une forte tendance vers les postes de "Developer, full-stack" parmi ceux ayant 1-3 ans d'expérience en codage.</li>
+    <li> Les rôles de développeur spécialisés comme front-end et back-end sont également populaires. </li>
+     <li> Les postes non directement liés au développement, comme ceux dans l'éducation, le DevOps, et le design, sont beaucoup moins représentés. </li>
+  </ul>
+</p>
