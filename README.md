@@ -187,6 +187,6 @@ Si vous avez des questions ou des suggestions, n'hésitez pas à ouvrir une issu
 ---
 ```
 
-Vous pouvez copier ce code et l'ajouter à la fin de votre fichier `README.md`. Cela fournira une conclusion complète et bien structurée pour les lecteurs de votre projet.
+
 
 
