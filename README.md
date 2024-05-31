@@ -155,7 +155,10 @@ Le graphique présenté est un diagramme circulaire (ou donut chart) représenta
      <li>Le problème le plus dominant représenté dans cette visualisation est lié aux 'Sujets définis académiquement (système)'. Cela suggère que les répondants trouvent que les sujets définis par le système académique posent les plus grands défis dans l'enseignement.</li>
   </ul>
 </p>
-<p></p>
+<p> 
+  <br>
+  <br>
+</p>
 
 
 ## Voici les points clés importants
