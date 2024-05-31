@@ -42,8 +42,6 @@
     <li>Soumettez une pull request pour révision.</li>
   </ul>
 </p>
-> [!TIP]
-> Helpful advice for doing things better or more easily.
 
 
 ## 5. Licence
