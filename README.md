@@ -111,3 +111,18 @@ La visualisation montre un histogramme représentant les intitulés de poste en 
 
 > [!IMPORTANT]
 > Cette visualisation est aussi interactive et permet de choisir différentes plages d'années d'expérience pour voir la répartition des intitulés de poste parmi les développeurs.
+
+### Voici la quatrième visualisation
+
+![V6](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/8039af8e-c71c-411e-989a-db3b35f06c8e)
+
+
+
+<p>
+La visualisation montre un histogramme représentant les intitulés de poste en fonction de l'expérience en codage (années d'expérience) pour une sélection de 1-3 ans.
+  <ul>
+     <li>La visualisation montre une forte tendance vers les postes de "Developer, full-stack" parmi ceux ayant 1-3 ans d'expérience en codage.</li>
+    <li> Les rôles de développeur spécialisés comme front-end et back-end sont également populaires. </li>
+     <li> Les postes non directement liés au développement, comme ceux dans l'éducation, le DevOps, et le design, sont beaucoup moins représentés. </li>
+  </ul>
+</p>
