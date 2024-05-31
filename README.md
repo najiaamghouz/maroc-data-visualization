@@ -155,8 +155,8 @@ Le graphique présenté est un diagramme circulaire (ou donut chart) représenta
      <li>Le problème le plus dominant représenté dans cette visualisation est lié aux 'Sujets définis académiquement (système)'. Cela suggère que les répondants trouvent que les sujets définis par le système académique posent les plus grands défis dans l'enseignement.</li>
   </ul>
 </p>
-
-
+<br>
+<br>
 ## Voici les points clés importants
 
 Merci d'avoir pris le temps de parcourir ce projet. À travers les différentes analyses et visualisations interactives présentées, nous avons pu obtenir des insights précieux sur divers aspects de l'expérience des développeurs, leurs préférences, et les défis qu'ils rencontrent.
