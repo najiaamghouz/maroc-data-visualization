@@ -139,5 +139,8 @@ La visualisation  montre un histogramme représentant les sources les plus coura
   </ul>
 </p>
 
+> [!IMPORTANT]
+> Cette visualisation montre un graphique interactif qui permet aux utilisateurs de visualiser les sources d'aide les plus courantes pour les développeurs en fonction de leur expérience en codage. 
+
 ### Voici la dérnière visualisation
 
