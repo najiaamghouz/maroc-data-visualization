@@ -134,7 +134,7 @@ La visualisation  montre un histogramme représentant les plateformes d'apprenti
 <p>
 La visualisation  montre un histogramme représentant les sources les plus courantes d'aide pour les développeurs en fonction de leur expérience en codage. 
   <ul>
-     <li>"Google it" semble être la source d'aide la plus populaire parmi les développeurs <code> ayant 1 à 3 ans d'expérience <code>, avec plus de 500 utilisateurs.</li>
+     <li>"Google it" semble être la source d'aide la plus populaire parmi les développeurs <code> ayant 1 à 3 ans d'expérience </code>, avec plus de 500 utilisateurs.</li>
     <li> "Call a coworker or friend" et "Do other work and come back later" sont des méthodes moins fréquemment utilisées, mais encore présentes parmi cette population de développeurs.</li>
   </ul>
 </p>
