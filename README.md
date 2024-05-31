@@ -110,4 +110,4 @@ La visualisation montre un histogramme représentant les intitulés de poste en 
 </p>
 
 > [!IMPORTANT]
-> Cette visualisation est interactive et permet de choisir différentes plages d'années d'expérience pour voir la répartition des intitulés de poste parmi les développeurs.
+> Cette visualisation est aussi interactive et permet de choisir différentes plages d'années d'expérience pour voir la répartition des intitulés de poste parmi les développeurs.
