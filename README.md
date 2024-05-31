@@ -79,7 +79,7 @@
   </ul>
 </p>
 
-### Voici la troisième visualisation
+### Voici une autre version de la deuxième visualisation
 
 ![V4](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/110bc7d6-507c-4007-99e6-67f08799e793)
 
@@ -95,3 +95,5 @@ La visualisation montre un histogramme représentant <code> les plans d'immigrat
 
 > [!IMPORTANT]
 > Cette visualisation est interactive ; on peut à chaque fois choisir un intitulé de poste différent pour voir la répartition des plans d'immigration parmi les développeurs.
+
+### Voici la troisième visualisation
