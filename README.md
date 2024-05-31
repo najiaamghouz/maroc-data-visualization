@@ -98,5 +98,6 @@ La visualisation montre un histogramme représentant <code> les plans d'immigrat
 
 ### Voici la troisième visualisation
 
-![V5](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/6ee7d6ad-f3c9-4802-bde9-45c019004ee1)
+![V5](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/54bd045e-3ef1-47a8-9618-7afb504f4229)
+
 
