@@ -50,6 +50,4 @@
 </p>
 
 ## 6. Les visualisations
-<p align="center">
-<img align="center"  width="50%" src=" V1.png "
-</p>
+![V1](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/525e9f45-38cc-4f49-bd42-9a6cd6fd2643)
