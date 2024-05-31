@@ -93,3 +93,5 @@ La visualisation montre un histogramme représentant <code> les plans d'immigrat
   </ul>
 </p>
 
+> [!IMPORTANT]
+> Cette visualisation est interactive ; on peut à chaque fois choisir un intitulé de poste différent pour voir la répartition des plans d'immigration parmi les développeurs.
