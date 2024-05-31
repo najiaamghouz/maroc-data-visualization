@@ -71,3 +71,12 @@
 
 
 ![V2](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/12009e1a-1e51-45d0-a183-f417320d2e8f)
+
+<p>
+ La deuxième visualisation sert à représenter la distribution des développeurs entre ceux qui préfèrent immigrer en dehors du Maroc et ceux qui préfèrent rester au Maroc.
+  <ul>
+     <li>La visualisation montre une tendance claire où la majorité des développeurs back-end (environ 200 personnes) envisagent l'immigration, ce qui pourrait suggérer des facteurs comme de meilleures opportunités de travail, des conditions de vie, ou d'autres motivations personnelles ou professionnelles.</li>
+    <li> Le nombre plus faible de développeurs back-end (environ 80 personnes) sans plans d'immigration pourrait indiquer une satisfaction avec leur situation actuelle ou des obstacles à l'immigration. </li>
+  </ul>
+</p>
+
