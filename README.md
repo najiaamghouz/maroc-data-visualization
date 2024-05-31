@@ -132,11 +132,10 @@ La visualisation  montre un histogramme représentant les plateformes d'apprenti
 
 
 <p>
-La visualisation  montre un histogramme représentant les plateformes d'apprentissage les plus populaires et les plus utilisées par les développeurs qui apprendre d'une façon continu, avec une fréquence d'apprentissage sélectionnée comme "Every few months". 
+La visualisation  montre un histogramme représentant les sources les plus courantes d'aide pour les développeurs en fonction de leur expérience en codage. 
   <ul>
-     <li>La visualisation montre une forte préférence pour les ressources en ligne gratuites et accessibles comme YouTube et la documentation officielle.</li>
-    <li> Les ressources payantes et les livres sont également bien utilisés, indiquant que les apprenants sont disposés à investir dans des ressources de qualité.</li>
-     <li> Les ressources de l'entreprise et autres sources sont les moins populaires, peut-être en raison de leur accessibilité limitée ou de leur qualité perçue. </li>
+     <li>"Google it" semble être la source d'aide la plus populaire parmi les développeurs ayant 1 à 3 ans d'expérience, avec plus de 500 utilisateurs.</li>
+    <li> "Call a coworker or friend" et "Do other work and come back later" sont des méthodes moins fréquemment utilisées, mais encore présentes parmi cette population de développeurs.</li>
   </ul>
 </p>
 
