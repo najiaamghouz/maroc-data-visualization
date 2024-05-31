@@ -119,10 +119,10 @@ La visualisation montre un histogramme représentant les intitulés de poste en 
 
 
 <p>
-La visualisation montre un histogramme représentant les intitulés de poste en fonction de l'expérience en codage (années d'expérience) pour une sélection de 1-3 ans.
+La visualisation  montre un histogramme représentant les plateformes d'apprentissage les plus populaires et les plus utilisées par les développeurs qui apprendre d'une façon continu, avec une fréquence d'apprentissage sélectionnée comme "Every few months". 
   <ul>
-     <li>La visualisation montre une forte tendance vers les postes de "Developer, full-stack" parmi ceux ayant 1-3 ans d'expérience en codage.</li>
-    <li> Les rôles de développeur spécialisés comme front-end et back-end sont également populaires. </li>
-     <li> Les postes non directement liés au développement, comme ceux dans l'éducation, le DevOps, et le design, sont beaucoup moins représentés. </li>
+     <li>La visualisation montre une forte préférence pour les ressources en ligne gratuites et accessibles comme YouTube et la documentation officielle.</li>
+    <li> Les ressources payantes et les livres sont également bien utilisés, indiquant que les apprenants sont disposés à investir dans des ressources de qualité.</li>
+     <li> Les ressources de l'entreprise et autres sources sont les moins populaires, peut-être en raison de leur accessibilité limitée ou de leur qualité perçue. </li>
   </ul>
 </p>
