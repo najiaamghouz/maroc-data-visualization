@@ -70,7 +70,8 @@
 ### Voici la deuxième visualisation
 
 
-![V2](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/12009e1a-1e51-45d0-a183-f417320d2e8f)
+![V3](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/4e6744ff-0ed5-40f6-a0f2-63011fd53619)
+
 
 <p>
  La deuxième visualisation sert à représenter la distribution des développeurs entre ceux qui préfèrent immigrer en dehors du Maroc et ceux qui préfèrent rester au Maroc.
@@ -80,4 +81,17 @@
   </ul>
 </p>
 
-<img width="617" alt="1" src="https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/e9512101-e74f-4e73-a579-42a0567d71b0">
+### Voici la troisième visualisation
+<br>
+![V4](https://github.com/najiaamghouz/maroc-data-visualization/assets/171170836/110bc7d6-507c-4007-99e6-67f08799e793)
+
+
+
+<p>
+La visualisation montre un histogramme représentant les plans d'immigration des cadres supérieurs (Senior executive/VP).
+  <ul>
+     <li>La visualisation montre une tendance où la majorité des cadres supérieurs préfèrent rester au Maroc, n'envisageant pas l'immigration.</li>
+    <li> Le nombre plus faible de cadres supérieurs ayant des plans d'immigration pourrait indiquer une satisfaction avec leur situation actuelle ou des obstacles à l'immigration. </li>
+  </ul>
+</p>
+
